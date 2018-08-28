@@ -4,7 +4,7 @@
 """
 import json
 
-city = '  budvA, me' # 3203106
+city = 'budvA, me' # 3203106
 
 def getCityIdFromName(name_cod):
     lst = name_cod.split(',')
